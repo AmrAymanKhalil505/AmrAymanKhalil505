@@ -5,7 +5,9 @@
   <img width="48%" src="https://media.giphy.com/media/veNYydVkae95U84yvF/giphy.gif" alt="IBM Call For Code Reginal Winner Project" />
   <img width="48%" src="https://media.giphy.com/media/K21SEhKYHpyMARPqLV/giphy.gif" alt="GGJ 2019 Entry" />
   <img width="48%" src="https://media.giphy.com/media/BaD2wBP4PH8POkAraB/giphy.gif" alt="Unity Kratos level replica" />
+  <img width="48%" src="https://media.giphy.com/media/XteZyHqKuNtWp0O21w/giphy.gif" alt="DDQN Learning" />
 </p>
+
 <p align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAymanKhalil505&langs_count=8&theme=radical)
