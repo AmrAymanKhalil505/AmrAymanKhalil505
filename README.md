@@ -6,12 +6,19 @@
 ---
 
 <p align="center">
+  
   <a href="https://github.com/mohamedazab/cfc-smart-irrigation">
   <img width="48%" src="https://media.giphy.com/media/veNYydVkae95U84yvF/giphy.gif" alt="IBM Call For Code Reginal Winner Project" />
   </a>
+  
   <a href="https://github.com/AmrAymanKhalil505/BonFire">
   <img width="48%" src="https://media.giphy.com/media/K21SEhKYHpyMARPqLV/giphy.gif" alt="GGJ 2019 Entry" />
    </a>
+</p>
+<p align="center">
+   IBM Call For Code Reginal Winner Project
+   Global Game Jam 2019 Entry
+</p>
   <a href="https://github.com/AmrAymanKhalil505/Unity-Kratos-Final-Project">
   <img width="48%" src="https://media.giphy.com/media/BaD2wBP4PH8POkAraB/giphy.gif" alt="Unity Kratos level replica" />
   </a>
