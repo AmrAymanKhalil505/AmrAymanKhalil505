@@ -10,7 +10,7 @@
 
 <p align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAymanKhalil505&langs_count=8&theme=radical&hide=Mathematica,Assembly)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAymanKhalil505&langs_count=8&theme=dark&hide=Mathematica,Assembly)
 </p>
 <!--
 **AmrAymanKhalil505/AmrAymanKhalil505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
