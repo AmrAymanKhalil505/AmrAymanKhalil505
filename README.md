@@ -1,6 +1,7 @@
 
-![AmrAymanKhalil505](https://github.com/AmrAymanKhalil505/AmrAymanKhalil505/blob/main/1583268861251.jpeg)
-
+<p align="center">
+<img  src="https://github.com/AmrAymanKhalil505/AmrAymanKhalil505/blob/main/1583268861251.jpeg" alt="IBM Call For Code Reginal Winner Project" />
+</p>
 <p align="center">
   <img width="48%" src="https://media.giphy.com/media/veNYydVkae95U84yvF/giphy.gif" alt="IBM Call For Code Reginal Winner Project" />
   <img width="48%" src="https://media.giphy.com/media/K21SEhKYHpyMARPqLV/giphy.gif" alt="GGJ 2019 Entry" />
