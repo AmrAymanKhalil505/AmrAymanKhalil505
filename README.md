@@ -3,10 +3,18 @@
 <img  src="https://github.com/AmrAymanKhalil505/AmrAymanKhalil505/blob/main/1583268861251.jpeg" alt="IBM Call For Code Reginal Winner Project" />
 </p>
 <p align="center">
+  <a href="https://github.com/mohamedazab/cfc-smart-irrigation">
   <img width="48%" src="https://media.giphy.com/media/veNYydVkae95U84yvF/giphy.gif" alt="IBM Call For Code Reginal Winner Project" />
+  </a>
+  <a href="https://github.com/AmrAymanKhalil505/BonFire">
   <img width="48%" src="https://media.giphy.com/media/K21SEhKYHpyMARPqLV/giphy.gif" alt="GGJ 2019 Entry" />
+   </a>
+  <a href="https://github.com/AmrAymanKhalil505/Unity-Kratos-Final-Project">
   <img width="48%" src="https://media.giphy.com/media/BaD2wBP4PH8POkAraB/giphy.gif" alt="Unity Kratos level replica" />
+  </a>
+  <a href="https://github.com/AmrAymanKhalil505/CarSimulation">
   <img width="48%" src="https://media.giphy.com/media/XteZyHqKuNtWp0O21w/giphy.gif" alt="DDQN Learning" />
+   </a>
 </p>
 
 <p align="center">
