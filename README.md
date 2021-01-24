@@ -4,10 +4,11 @@
 <p align="center">
   <img width="48%" src="https://media.giphy.com/media/veNYydVkae95U84yvF/giphy.gif" alt="IBM Call For Code Reginal Winner Project" />
   <img width="48%" src="https://media.giphy.com/media/K21SEhKYHpyMARPqLV/giphy.gif" alt="GGJ 2019 Entry" />
-  
+  <img width="48%" src="https://media.giphy.com/media/BaD2wBP4PH8POkAraB/giphy.gif" alt="Unity Kratos level replica" />
 </p>
 <p align="center">
-<img width="48%" src="https://media.giphy.com/media/BaD2wBP4PH8POkAraB/giphy.gif" alt="Unity Kratos level replica" />
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAymanKhalil505&langs_count=8&theme=radical)
 </p>
 <!--
 **AmrAymanKhalil505/AmrAymanKhalil505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +25,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAymanKhalil505&langs_count=8&theme=radical)
