@@ -1,6 +1,6 @@
 
-
-
+---
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
 ---
 
 
@@ -11,7 +11,7 @@
   |<a href="https://github.com/AmrAymanKhalil505/Unity-Kratos-Final-Project"><img src="https://media.giphy.com/media/BaD2wBP4PH8POkAraB/giphy.gif" alt="Unity Kratos level replica" /></a>|<a href="https://github.com/AmrAymanKhalil505/CarSimulation"><img src="https://media.giphy.com/media/XteZyHqKuNtWp0O21w/giphy.gif" alt="DDQN Learning" /></a>|
   |<a href="https://github.com/AmrAymanKhalil505/Unity-Kratos-Final-Project">Unity Kratos level replica</a>|<a href="https://github.com/AmrAymanKhalil505/CarSimulation">Reinforcement Machine Learning</a>|
   |||
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+
   
 
 
