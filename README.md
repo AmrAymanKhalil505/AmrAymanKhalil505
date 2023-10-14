@@ -5,7 +5,6 @@
 
   |||
   |:---:|:---:|
-  
   <a href="https://youtu.be/pqaKUDnPQRg"><img  src="https://media.giphy.com/media/veNYydVkae95U84yvF/giphy.gif" alt="IBM Call For Code Reginal Winner Project" /></a>|<a href="https://github.com/AmrAymanKhalil505/BonFire"><img src="https://media.giphy.com/media/K21SEhKYHpyMARPqLV/giphy.gif" alt="GGJ 2019 Entry" /></a>
   | <a href="https://github.com/mohamedazab/cfc-smart-irrigation">IBM Call For Code 2019 Regional Winner Project</a>| <a href="https://github.com/AmrAymanKhalil505/BonFire">Global Grid Jam 2019 Entry</a>|
   |<a href="https://github.com/AmrAymanKhalil505/Unity-Kratos-Final-Project"><img src="https://media.giphy.com/media/BaD2wBP4PH8POkAraB/giphy.gif" alt="Unity Kratos level replica" /></a>|<a href="https://github.com/AmrAymanKhalil505/CarSimulation"><img src="https://media.giphy.com/media/XteZyHqKuNtWp0O21w/giphy.gif" alt="DDQN Learning" /></a>|
