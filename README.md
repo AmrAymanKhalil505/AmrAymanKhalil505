@@ -5,7 +5,6 @@
 <p align="center">
   <a href="https://amraymankhalil505.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Case_studies-A9FBD7?style=for-the-badge&labelColor=101314" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/amr-ayman-khalil"><img src="https://img.shields.io/badge/LinkedIn-Amr_Khalil-0A66C2?style=for-the-badge&logo=linkedin&labelColor=101314" alt="LinkedIn" /></a>
-  <a href="mailto:amro.ayman.khalil@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&labelColor=101314" alt="Email" /></a>
 </p>
 
 ## Featured work
