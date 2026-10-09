@@ -1,122 +1,85 @@
-Amr Khalil
-
-Senior Unity Engineer — Interactive Simulations, Industrial Training, EdTech, WebGL, AR & VR
-
-I build Unity applications that turn complex systems into clear interactive experiences.
-
-My work focuses on industrial training simulations, digital twin / digital shadow systems, PID and control-system labs, engineering education tools, AR interior visualization, VR training, and WebGL-ready real-time demos.
-
-""Portfolio" (https://img.shields.io/badge/Portfolio-View_Case_Studies-blue?style=for-the-badge)" (https://amraymankhalil505.github.io/Portfolio/)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Amr_Khalil-blue?style=for-the-badge&logo=linkedin)" (https://linkedin.com/in/amr-ayman-khalil)
-""Email" (https://img.shields.io/badge/Email-amro.ayman.khalil%40gmail.com-red?style=for-the-badge&logo=gmail)" (mailto:amro.ayman.khalil@gmail.com)
-
----
-
-What I build
-
-I specialize in Unity systems where the goal is not only to make something look good, but to make behavior understandable.
-
-Physical trainer / machine   → Unity digital twin or digital shadow
-Engineering concept          → interactive educational simulation
-Control system               → PID lab with graphs, tuning, and feedback
-Room / product visualization → WebGL + AR customer experience
-Training requirement         → VR workflow learners can use directly
-
----
-
-Core strengths
-
-- Unity simulation engineering
-  Real-time behavior, interaction logic, C# systems, UI workflows, and scene architecture.
-
-- Industrial training systems
-  Station motion, sensors, actuators, PLC-style states, process flow, emergency states, and visual cause-and-effect feedback.
-
-- Educational simulation design
-  PID tuning, fluid mechanics, fuel-cell systems, guided experiment flows, graphs, measurements, and learner-facing feedback.
-
-- XR and cross-platform delivery
-  Meta Quest VR training, Android/iOS AR preview, WebGL builds, Photon collaboration, and backend-connected Unity apps.
-
-- Technical product thinking
-  I care about turning technical work into something instructors, students, clients, and reviewers can understand quickly.
-
----
-
-Featured portfolio work
-
-Project| Why it matters| Stack / Domain
-"Industrial Training Simulation Systems" (https://amraymankhalil505.github.io/Portfolio/projects/industrial-training-simulation-systems)| Unity/WebGL digital twin-style simulations for MR110 and MR109 training systems. Shows station motion, sensor feedback, actuators, process states, and PLC-style workflows.| Unity, C#, WebGL, Industrial Training
-"PID Virtual Labs Suite" (https://amraymankhalil505.github.io/Portfolio/projects/pid-control-virtual-labs-suite)| Digital-shadow control labs for pressure, temperature, motor speed, motor position, level, and flow. Includes tuning workflows, disturbances, response graphs, and performance feedback.| Unity, Control Systems, WebGL
-"Engineering Education Virtual Labs" (https://amraymankhalil505.github.io/Portfolio/projects/engineering-education-virtual-labs)| Interactive labs for Bernoulli principle, flow measurement, laminar flow visualization, and fuel-cell vehicle energy behavior.| Unity, WebGL, EdTech, Simulation
-"Ivris Interior Design App" (https://amraymankhalil505.github.io/Portfolio/projects/ivris-ar-interior-visualization)| Cross-platform interior visualization app with runtime 3D asset loading, WebGL collaborative editing, mobile AR preview, PlayFab, and backend integration.| Unity, WebGL, AR, Photon, PlayFab
-"Tanta University Meta Quest 2 Training Suite" (https://amraymankhalil505.github.io/Portfolio/projects/meta-quest-vr-training-suite)| Solo-developed VR training suite with Quest onboarding, 360 surgical-room viewer, and an interactive viscosity experiment using handheld tools.| Unity, Meta Quest 2, VR
-"Nescafe Ice Coffee VR Surfing Experience" (https://amraymankhalil505.github.io/Portfolio/projects/nescafe-surfing-vr-booth)| Short-session VR booth experience for a live event, with fast onboarding, collectible targets, timer/score feedback, and route-based gameplay.| Unity, VR, Event Activation
-"IBM Call for Code Smart Irrigation" (https://amraymankhalil505.github.io/Portfolio/projects/ibm-call-for-code-agri-tech)| Social-impact agri-tech prototype using IoT monitoring, backend API flow, and ML decision-support concepts for water-saving irrigation.| Django API, IoT, ML
-
----
-
-Current professional focus
-
-I’m currently focused on:
-
-- Unity-based industrial and educational simulations.
-- Digital twin / digital shadow workflows for training systems.
-- WebGL simulation delivery for browser-based learning.
-- PID, PLC, robotics, fluid mechanics, and energy-system visualization.
-- Clean public case studies that explain technical work without exposing private implementation details.
-
----
-
-Experience snapshot
-
-Senior Unity Engineer — BEDO Innovating Education
-Building Unity-based educational and industrial simulations, including digital twin and digital shadow systems for PLC-style and PID-controlled training devices.
-
-Unity and AR Application Developer — Ivris
-Built cross-platform Unity app features for runtime furniture/room loading, WebGL collaboration, Android/iOS AR preview, PlayFab, and backend-connected workflows.
-
-Unity Virtual Reality Developer — Tanta University
-Developed Meta Quest 2 training applications, including VR onboarding, a viscosity lab simulation, and a multi-angle 360 surgical-room viewer.
-
----
-
-Technical areas
-
-Unity / C# / WebGL
-Simulation architecture
-Digital twins and digital shadows
-PLC-style process visualization
-PID control and response graphing
-VR training applications
-AR preview workflows
-Photon multiplayer collaboration
-PlayFab integration
-Backend-connected Unity apps
-Educational UX and guided experiments
-
----
-
-Earlier projects and foundations
-
-Before my current focus on industrial simulation, EdTech, AR, and VR, I built game prototypes, game-jam projects, and AI/ML simulation work. These helped build my foundation in Unity, gameplay systems, physics, rapid prototyping, and interactive problem solving.
-
-- "Self-driving car / reinforcement learning simulation" (https://github.com/AmrAymanKhalil505/CarSimulation)
-- "Unity Kratos level replica" (https://github.com/AmrAymanKhalil505/Unity-Kratos-Final-Project)
-- "Global Game Jam 2019 — BonFire" (https://github.com/AmrAymanKhalil505/BonFire)
-- "Global Game Jam 2023" (https://github.com/oaboelazm/GGJ23)
-
----
-
-GitHub activity
+<h1 align="center">Amr Khalil</h1>
+<p align="center"><b>Senior Unity Engineer · Simulation, XR, Digital Twins</b></p>
+<p align="center">I build Unity simulations of real engineering equipment that learners can operate, tune, and understand: industrial training stations, control-system labs, VR training, and WebGL delivery.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmrAymanKhalil505&theme=dark&show_icons=true" alt="Amr Khalil GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmrAymanKhalil505&langs_count=8&theme=dark&layout=compact&hide=Mathematica,Assembly" alt="Top languages" />
-</p>---
+  <a href="https://amraymankhalil505.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Case_studies-A9FBD7?style=for-the-badge&labelColor=101314" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/amr-ayman-khalil"><img src="https://img.shields.io/badge/LinkedIn-Amr_Khalil-0A66C2?style=for-the-badge&logo=linkedin&labelColor=101314" alt="LinkedIn" /></a>
+  <a href="mailto:amro.ayman.khalil@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&labelColor=101314" alt="Email" /></a>
+</p>
 
-Contact
+## Featured work
 
-- Portfolio: "amraymankhalil505.github.io/Portfolio" (https://amraymankhalil505.github.io/Portfolio/)
-- LinkedIn: "linkedin.com/in/amr-ayman-khalil" (https://linkedin.com/in/amr-ayman-khalil)
-- Email: "amro.ayman.khalil@gmail.com" (mailto:amro.ayman.khalil@gmail.com)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://amraymankhalil505.github.io/Portfolio/projects/industrial-training-simulation-systems"><img src="https://raw.githubusercontent.com/AmrAymanKhalil505/Portfolio/main/src/assets/thumbnails/projects/MR109%20Compact/MR109%20Robot%20Arm.thumb.webp" alt="Industrial training simulation" /></a><br />
+      <b>Industrial Training Simulations</b><br />
+      <sub>MR109 / MR110 stations: sensors, actuators, PLC-style process states · Unity, WebGL</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://amraymankhalil505.github.io/Portfolio/projects/pid-control-virtual-labs-suite"><img src="https://raw.githubusercontent.com/AmrAymanKhalil505/Portfolio/main/src/assets/thumbnails/projects/PID/MPC%20100%20Pressure%20Far.thumb.webp" alt="PID virtual labs" /></a><br />
+      <b>PID Virtual Labs</b><br />
+      <sub>Pressure, temperature, speed, level and flow control labs with live tuning and graphs</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://amraymankhalil505.github.io/Portfolio/projects/engineering-education-virtual-labs"><img src="https://raw.githubusercontent.com/AmrAymanKhalil505/Portfolio/main/src/assets/thumbnails/projects/EduLab/EV117%20Particles.thumb.webp" alt="Engineering education virtual labs" /></a><br />
+      <b>Engineering Education Labs</b><br />
+      <sub>Bernoulli, laminar flow and a hydrogen fuel-cell vehicle lab</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://amraymankhalil505.github.io/Portfolio/projects/meta-quest-vr-training-suite"><img src="https://i.ytimg.com/vi/hgh_BzUa5X0/hqdefault.jpg" alt="Meta Quest 2 training suite" /></a><br />
+      <b>Meta Quest 2 Training Suite</b><br />
+      <sub>Sole developer: VR onboarding, 360° surgical viewer, hand-held lab tools</sub>
+    </td>
+    <td align="center">
+      <a href="https://amraymankhalil505.github.io/Portfolio/projects/ivris-ar-interior-visualization"><img src="https://raw.githubusercontent.com/AmrAymanKhalil505/Portfolio/main/src/assets/thumbnails/projects/Ivris/Ivris%20app%2003.thumb.webp" alt="Ivris interior design app" /></a><br />
+      <b>Ivris Interior Design App</b><br />
+      <sub>Runtime 3D loading, Photon WebGL co-editing, mobile AR · Unity 6</sub>
+    </td>
+    <td align="center">
+      <a href="https://amraymankhalil505.github.io/Portfolio/projects/nescafe-surfing-vr-booth"><img src="https://raw.githubusercontent.com/AmrAymanKhalil505/Portfolio/main/src/assets/thumbnails/projects/Nescafe/Nescafe%20Sand%20surfing.thumb.webp" alt="Nescafe VR surfing booth" /></a><br />
+      <b>Nescafé VR Surfing Booth</b><br />
+      <sub>Short-session event VR game with a timed score loop</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://amraymankhalil505.github.io/Portfolio/projects">All projects and case studies →</a></p>
+
+## Experience
+
+| Role | Where | When |
+|---|---|---|
+| Senior Unity Engineer | BEDO Innovating Education | Oct 2024 – present |
+| Unity & AR Application Developer | Ivris (freelance) | Jun 2024 – Jun 2026 |
+| Unity VR Developer | Tanta University | Dec 2023 – Oct 2024 |
+
+**Stack:** Unity (6) · C# · WebGL · Meta Quest · AR Foundation · Auto Hand · Photon · PlayFab · ScriptableObject architecture · Git
+
+## Earlier projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/AmrAymanKhalil505/CarSimulation"><img src="https://media.giphy.com/media/XteZyHqKuNtWp0O21w/giphy.gif" alt="Self-driving car reinforcement learning" /></a><br />
+      <b>Self-driving car simulation</b><br /><sub>Bachelor project · Unity + reinforcement learning (DDQN)</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/pqaKUDnPQRg"><img src="https://media.giphy.com/media/veNYydVkae95U84yvF/giphy.gif" alt="IBM Call for Code smart irrigation" /></a><br />
+      <b>IBM Call for Code 2019 · Regional winner</b><br /><sub>Smart irrigation: IoT + machine learning</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AmrAymanKhalil505/Unity-Kratos-Final-Project"><img src="https://media.giphy.com/media/BaD2wBP4PH8POkAraB/giphy.gif" alt="Unity Kratos level replica" /></a><br />
+      <b>Kratos level replica</b><br /><sub>Unity gameplay systems</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AmrAymanKhalil505/BonFire"><img src="https://media.giphy.com/media/K21SEhKYHpyMARPqLV/giphy.gif" alt="Global Game Jam 2019 BonFire" /></a><br />
+      <b>Global Game Jam 2019 · BonFire</b><br /><sub>48-hour game jam entry</sub>
+    </td>
+  </tr>
+</table>
